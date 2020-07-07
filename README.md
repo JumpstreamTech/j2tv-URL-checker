@@ -1,2 +1,2 @@
 # j2tv-URL-checker
-Checks URL status from an exported JumpStream database using Python requests library 
+Checks URL status from an exported JumpStream database using Python requests library -- functioning but needs improvement
